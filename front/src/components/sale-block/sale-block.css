@@ -1,0 +1,57 @@
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.sale-block-green {
+    padding: 100px 100px 147px;
+    background: #478E64;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.25);
+}
+
+.sale-block-beige {
+    background: #CCD5AE;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+}
+
+.book-img {
+    background: url(../../img/book-img.png) center center/cover no-repeat;
+    width: 450px;
+    height: 585px;
+    position: absolute;
+    top: 97px;
+    left: 30px;
+}
+
+.sale-block-info {
+    max-width: 690px;
+
+}
+
+.sale-info-header {
+    text-align: center;
+    margin-top: 69px;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+}
+
+.sale-info-text {
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.sale-info-address {
+    max-width: 610px;
+    margin: 154px 0px 30px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    color: #000000;
+}

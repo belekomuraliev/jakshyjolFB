@@ -1,0 +1,73 @@
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.footer-block {
+    background: #000000;
+}
+
+.nav-block {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.social-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.instagram-item {
+    background: url(../../icons/instagram-white.svg) center center/cover no-repeat;
+    width: 20px;
+    height: 20px;
+    margin-right: 25px;
+}
+
+.whatsapp-item {
+    background: url(../../icons/whatsapp-white.svg) center center/cover no-repeat;
+    width: 20px;
+    height: 20px;
+    margin-right: 25px;
+}
+
+.telegram-item {
+    background: url(../../icons/telegram-white.svg) center center/cover no-repeat;
+    width: 20px;
+    height: 20px;
+}
+
+.logo-footer {
+    background: url(../../icons/logo-footer.svg) center center/cover no-repeat;
+    width: 151px;
+    height: 15px;
+}
+
+.phone {
+    display: flex;
+}
+
+.phone-icon {
+    background: url(../../icons/phone-icon.svg) center center/cover no-repeat;
+    width: 11px;
+    height: 11px;
+}
+
+.first-phone{
+    margin-left: 6px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.second-phone {
+    margin-left: 20px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}

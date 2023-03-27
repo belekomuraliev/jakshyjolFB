@@ -1,0 +1,11 @@
+.testing-window-block {
+    background: #2A9D8F;
+}
+
+.testing-window-header {
+    padding: 10px 0;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,35 @@
+.timer-block {
+    background: #000;
+}
+
+.timer-block-wrap {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.timer-block-time {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.timer-block-over {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.link-to-home-page {
+    color: white;
+    font-size: 15px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.link-to-home-page:hover {
+    background: gray;
+}

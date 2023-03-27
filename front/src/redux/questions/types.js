@@ -1,0 +1,12 @@
+// GET posts
+
+const GET_BLOG =
+{
+    REQUEST: 'GET_BLOG_REQUEST',
+    RECEIVE: 'GET_BLOG_RECEIVE',
+    FAILURE: 'GET_BLOG_FAILURE'
+}
+
+export {
+    GET_BLOG
+}

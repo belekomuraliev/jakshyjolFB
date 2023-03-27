@@ -1,0 +1,11 @@
+django==3.2.9
+djangorestframework==3.12.4
+gunicorn==20.1.0
+django-filter
+drf-yasg
+psycopg2-binary
+Pillow
+django-cors-headers
+pytz
+sqlparse==0.4.2
+whitenoise==5.3.0
